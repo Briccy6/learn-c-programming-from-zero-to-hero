@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(void) {
     int n = 50;
     while (n >= 0) {
